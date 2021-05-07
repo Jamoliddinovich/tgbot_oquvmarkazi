@@ -1,0 +1,8 @@
+til
+start
+kurs
+ma'lumot
+ism
+familya
+raqam
+end

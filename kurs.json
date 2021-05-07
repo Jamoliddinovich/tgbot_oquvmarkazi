@@ -1,0 +1,18 @@
+[
+    {
+        "kurs_id":1,
+        "kurs_nomi":"C++",
+        "narxi":500000,
+        "ma'lumot":"bu kursda siz real proektlar asosida ta'lim olasiz ",
+        "davomiyligi":"9oy",
+        "vaqtlari":["8:00","16:00"]
+    },
+    {
+        "kurs_id":2,
+        "kurs_nomi":"Java",
+        "narxi":600000,
+        "ma'lumot":"bu kursda siz real proektlar asosida ta'lim olasiz ",
+        "davomiyligi":"11oy",
+        "vaqtlari":["14:00"]
+    }
+]
